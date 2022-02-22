@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Insulae fortunatae A discourse shewing the happiness of these nations under our present governours &amp; government, or, How they may be happy if they will themselves : delivered for substance in a sermon on a late solemn day appointed by authority for imploring the blessing of God upon his Majesty and the present Parliament / by R.A., pastor of the church at Henfield.</title>
+            <author>R. A. (Richard Allen)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23647</idno>
+            <idno type="STC">Wing A1044</idno>
+            <idno type="STC">ESTC R5033</idno>
+            <idno type="EEBO-CITATION">13683513</idno>
+            <idno type="OCLC">ocm 13683513</idno>
+            <idno type="VID">101329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23647)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 830:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Insulae fortunatae A discourse shewing the happiness of these nations under our present governours &amp; government, or, How they may be happy if they will themselves : delivered for substance in a sermon on a late solemn day appointed by authority for imploring the blessing of God upon his Majesty and the present Parliament / by R.A., pastor of the church at Henfield.</title>
+                  <author>R. A. (Richard Allen)</author>
+               </titleStmt>
+               <extent>[10], 14, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Ric. Allen.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezra VII, 27 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101329:1"/>
+            <pb facs="tcp:101329:1" rendition="simple:additions"/>
+            <p>
+               <hi>INS<g ref="char:V">Ʋ</g>LAE FORT<g ref="char:V">Ʋ</g>NATAE.</hi>
+            </p>
+            <p>A DISCOURSE, Shewing the Happineſs of theſe NATIONS Under our Preſent GOVERNOURS &amp; GOVERNMENT; OR, How they may be happy if they will themſelves.</p>
+            <p>Delivered for Subſtance in a SERMON On a late Solemn Day appointed by Authority, for Imploring the Bleſſing of God upon his MAJESTY, AND The Preſent PARLIAMENT.</p>
+            <p>By <hi>R. A.</hi> Paſtor of the Church at <hi>Henfield.</hi>
+            </p>
+            <q>O Fortunatos Nimiùm bona ſi ſua Nôrint Anglicolas!</q>
+            <p>
+               <hi>London:</hi> Printed by <hi>J. C.</hi> for the Author. 1675.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101329:2"/>
+            <pb facs="tcp:101329:2"/>
+            <head>To the Honourable Sir <hi>John Pelham,</hi> Sir <hi>Cecil Biſhop,</hi> Sir <hi>John Fagg,</hi> Baro<g ref="char:EOLhyphen"/>nets; <hi>Henry Goring, Edward Blaker,</hi> and <hi>Richard Bridger</hi> of <hi>Combs,</hi> Eſquires; and to the reſt of the Honourable Members of Parliament, and Juſtices of Peace for the County of <hi>Suſſex.</hi>
+            </head>
+            <opener>
+               <salute>Honourable Patriots;</salute>
+            </opener>
+            <p>THe unthankful Murmures and Com<g ref="char:EOLhyphen"/>plaints of unreaſonable men, wherewith they much obſcure the Great Merits of our Pious King and Religious Parliament, gave occaſion to this Diſcourſe; wherein I have endeavoured to prove, that they have no juſt cauſe of complaint, but only in themſelves: For his Majeſty, like a Skilful Pilot, hath Steered a right and ſtraight Courſe to the ſafe Harbour of Peace and Tranquillity; as appears clearly in his many Pious Motions, Orders, and Proclamations: and if we are not yet arrived, our General Diſobedience is the greateſt <hi>Remora.</hi> The Honourable Par<g ref="char:EOLhyphen"/>liament have done great things for the good
+<pb facs="tcp:101329:3"/>
+of the Nation, ſpecially in ſecuring our Re<g ref="char:EOLhyphen"/>ligion againſt the Intruſions of Popery, where<g ref="char:EOLhyphen"/>of our Forefathers were quite weary; as appears by that Prayer in the Old <hi>Letany, From the Tyranny of the Biſhop of</hi> Rome, <hi>Good Lord deliver us.</hi> And if their Pious Intentions have not attained the Deſired End, our general unthankfulneſs is the un<g ref="char:EOLhyphen"/>doubted cauſe of it. Our Diſtempers are high ſtill; the Lord direct you to fit and proper Remedies. My humble Petition to his Majeſty, and the Honourable Parlia<g ref="char:EOLhyphen"/>ment, is for the Church of <hi>England;</hi> She hath been terribly ſhaken with late Storms; and the Enemy cries out ſtill, <hi>Down with her, down with her, even to the ground.</hi> We deſire not the Life of our Enemies, nor the trouble of any that are Peaceable; con<g ref="char:EOLhyphen"/>ceiving it none of the beſt ways to ſettle Peace and Truth. But after all theſe Storms, if the Church were well ſetled upon her own Foundations or Principles, her Breaches re<g ref="char:EOLhyphen"/>paired with her own Materials, and good Diſcipline reſtored, She would be the Glory of the Nation, the Honour of his Majeſties Reign, the Joy and Comfort of all good
+<pb facs="tcp:101329:3"/>
+Subjects, and a moſt hopeful means of com<g ref="char:EOLhyphen"/>poſing moſt of our greateſt Differences. The Church lies in the Bowels of the Common<g ref="char:EOLhyphen"/>wealth; and if the Church be diſquieted, the Commonwealth cannot be at reſt. And I humbly beſeech your Honours to remember the Miniſters of the Church, to deliver them out of the many Oppreſſions which they are under; and that they may enjoy the ſmall remainder of their Ancient Patrimony with more Peace to the Church, and leſs Scandal to Religion. The whole Land is over<g ref="char:EOLhyphen"/>whelmed with Impiety and Licentiouſneſs, all manner of Debauchery and Profaneneſs; Drunkenneſs, Lying, Swearing, Oppreſſion, <hi>&amp;c.</hi> inſomuch that we have juſt cauſe to fear, that God hath a Controverſie with the Land, the iſſue whereof may be ſome Fear<g ref="char:EOLhyphen"/>ful Judgment. Good Laws are trodden un<g ref="char:EOLhyphen"/>der foot, Dignities reviled, Authority out-faced with the Inſolence of unreaſonable and wicked men, the Word of God deſpiſed; and the Word of the King, in his Pious Proclamations, not at all regarded The Nurſeries of all Vice, and Corrupters of Youth, thoroughout the Nation, Taverns and
+<pb facs="tcp:101329:4"/>
+Tipling-Houſes encreaſe beyond number, to the diſhonour of God, and diſquiet of the Realm; being great occaſions of profaning the Lords Day, and of many other diſorders againſt the Peace of the Nation. A <hi>Cardi<g ref="char:EOLhyphen"/>nal</hi> Archbiſhop of <hi>Saltzburg</hi> ſaid once, <hi>That he knew there was need of Reformation; but that a poor</hi> Monk <hi>ſhould do it, was not to be endured.</hi> I meddle not with it, but leave that to your Honours Wiſdoms; Hum<g ref="char:EOLhyphen"/>bly conceiving, that a well-ſetled Miniſtry would be no ſmall help to it.</p>
+            <closer>
+               <signed>Your Honours hum<g ref="char:EOLhyphen"/>ble Servant, <hi>RIC. ALLEN.</hi>
+               </signed> 
+               <dateline>
+                  <date>
+                     <hi>Feb. 15. 1674.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101329:4"/>
+            <head>TO THE READER.</head>
+            <p>IN <hi>Athens</hi> every Citizen took an Oath to maintain the Profeſſed Religion after this manner: <hi>Pugnabo pro Sa<g ref="char:EOLhyphen"/>cris, &amp; ſolus, &amp; ſimul cum aliis.</hi> If <hi>Pagans</hi> were ſo zealous for their Idolatrous Religion, how much more ought we to be for the Goſpel of Chriſt, <hi>the Power of God unto Salvation!</hi> eſpecially they that are called to the <hi>Miniſtery</hi> of it.</p>
+            <p>I have no ſpirit of bitterneſs, I uſe no bitterneſs of ſpeech againſt <hi>Recuſants,</hi> but deal with them as friendly as Truth will give me leave. But if angry Fellows among them will never be quiet, but provoke us daily; revile our Church, ſlander her Doctrine, vi<g ref="char:EOLhyphen"/>lifie her Famous Doctors, abuſe and ſeduce her People with Old thred-bare Stories; no man can juſtly blame us for ſtanding up in our own Defence.</p>
+            <p>
+               <pb facs="tcp:101329:5"/>A Learned <hi>Benedictine</hi> at this day (once one of us) would fain divide our Church; and to that purpoſe, reports falſly of her Doctrine. If ever he underſtood it, he may be aſhamed; if he never did, yet ſure he will be ſorry, if he be ſo ingenuous as he profeſſeth: But if they are ſo uncharitable one to another, as a Famous <hi>Fryar (P. W.)</hi> of the Order of S. <hi>Francis</hi> at this day makes ſad complaint, we muſt look for no better. For this preſent undertaking, I thought my ſelf obliged unto it in a three<g ref="char:EOLhyphen"/>fold reſpect. Firſt, as a <hi>Chriſtian,</hi> to main<g ref="char:EOLhyphen"/>tain the truth of the Goſpel Secondly, as a <hi>Miniſter,</hi> to maintain the Doctrine of our Church. Thirdly, as a <hi>Subject,</hi> to maintain the Honour and Dignity of our Gracious Soveraign, and to let his People ſee ſome Reaſons to bleſs God for him, who deſerves better of the Nation than every one takes notice of.</p>
+            <p>Our good King and Parliament have ap<g ref="char:EOLhyphen"/>plied ſeveral Remedies to heal our Breaches; but if we will neither <hi>receive Inſtruction,</hi> nor <hi>endure Correction,</hi> our condition may be worſe than we commonly fear: For as
+<pb facs="tcp:101329:5"/>
+               <hi>Philotimus</hi> in <hi>Plutarch</hi> told his Patient, <hi>Non eſt de Reduviis negotium,</hi> &amp;c.</p>
+            <p>Now if any think it much that I prefix ſo many Great Names to ſo ſmall a Book, let them take notice, that the Piety and Zeal thoſe Honourable Perſons have for the true Proteſtant Religion, imboldened me; and that brevity, for ſome Reaſons, was the greateſt part of my Study.</p>
+            <p>If any miſtake my honeſt meaning, or ſlight my little Book, (as I know ſome will, and I know their reaſons without asking) let them know, that I can ſolace my ſelf with the Conſcience of my own good in<g ref="char:EOLhyphen"/>tentions, and bid them heartily</p>
+            <trailer>FAREWEL.</trailer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:101329:6"/>
+            <head>ERRATA.</head>
+            <p>PAge 2. line 18. for <hi>then,</hi> read <hi>him.</hi> Page 14. line 17. for <hi>need,</hi> read <hi>cauſe.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101329:6"/>
+            <head>Inſulae Fortunatae, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EZRA 7.27.</hi>
+                  </bibl>
+                  <p>Bleſſed be the Lord God of our Fathers, who hath put ſuch a thing as this in the Kings Heart, to Beautifie the Houſe of the Lord which is in <hi>Jeruſalem.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Houſe of the Lord was then the Temple at <hi>Jeruſalem;</hi> but now e<g ref="char:EOLhyphen"/>very place ſet apart and Conſecrated to the Worſhip and Service of God, is, and may be rightly called his Houſe.</p>
+            <p>The Temple at <hi>Jeruſalem</hi> was burnt with Fire by the <hi>Chaldees,</hi> reſtored again by the Kings of <hi>Perſia; Cyrus</hi> laid the Foundation, <hi>Darius</hi> finiſht the Building, <hi>Artaxerxes</hi> furniſht the Houſe with all Neceſſaries for the Service of God; for he ſent <hi>Ezra</hi> the Scribe, with Preſents of Gold and Silver to buy Meat-Offerings and Drink-Offerings, Bullocks,
+<pb n="2" facs="tcp:101329:7"/>
+Rams, and Lambs, to offer upon the Altar of the Houſe of God, as the God of Heaven had Com<g ref="char:EOLhyphen"/>manded: And thus he Beautified the Houſe of God.</p>
+            <p>At the ſame time the <hi>Jews</hi> were reſtored to the enjoyment of many Temporal Bleſſings and ſweet comforts in their own Country, <hi>a Land flowing with Milk and Honey:</hi> But <hi>Ezra</hi> paſſeth by all theſe, as of ſmall value, in compariſon, and bleſſeth God for reſtoring his Holy Worſhip and Service in his own Houſe at <hi>Jeruſalem.</hi>
+            </p>
+            <p>Obſ. 1. <hi>That true Religion, the pure Worſhip and Service of God, is the faireſt Beauty of Gods Houſe; Faithful Paſtors, and Godly People, the richeſt Orna<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>Obſ. 2. <hi>That of all Bleſſings under Heaven, the Truth of Religion, the Purity of Gods Worſhip, and the enjoyment of them in his Ordinances, is the chiefeſt, choiceſt, and moſt precious.</hi>
+            </p>
+            <p>It is as the Ark of God to <hi>Iſrael,</hi> and to the Houſe of <hi>Obed-Edom;</hi> the glory, riches and ſtrength of a Nation. As the Temple was then (<hi>Ezek.</hi> 24.21.) ſuch is now the Houſe of God, beautified with the truth of Religion, and purity of Divine Wor<g ref="char:EOLhyphen"/>ſhip: It is the Excellency of our Strength; the main Bulwark of our Peace and Safety; the ſureſt Ground or Foundation of all true Happineſs, Nati<g ref="char:EOLhyphen"/>onal or Perſonal. Our <hi>Saxon</hi> Anceſtors, in their <hi>Witten-Gemotts,</hi> uſed, in the firſt place, to con<g ref="char:EOLhyphen"/>ſult about Affairs of the Church, and Matters of Religion; and when thoſe things were well ſetled, then followed Affairs of the Commonwealth: Our Pious Anceſtors rightly conceiving, that Religion
+<pb n="3" facs="tcp:101329:7"/>
+was the principal and moſt precious; and that if Gods Buſineſs were done firſt, their own would thrive the better; according to that of our Saviour (Matth. 6.33.) <hi>Seek ye firſt the Kingdom of God, and all theſe things ſhall be added.</hi> There is no loſs of time in ſeeking Gods Kingdom firſt.</p>
+            <p>Now it cannot be denied, but that this Nation hath received of God, by the hands of our Graci<g ref="char:EOLhyphen"/>ous Soveraign, many rich Mercies, which call aloud for returns of Thankfulneſs unto God, of Love and Loyalty to our Soveraign; but inſtead hereof, we hear unthankful murmures and complaints. The World was ever given to it; and we can expect no other of men, who never know when they are well: But we have as much cauſe to bleſs God for our <hi>Good King,</hi> as ever <hi>Ezra</hi> had for the <hi>Great King.</hi> To ſtop the mouths then of ſuch querulous people that are never content, I ſhall endeavour to ſhew you, how much we are bound to return all Loyalty, Love and Obedience to our Pious Sove<g ref="char:EOLhyphen"/>raign, with due Honour and Reſpect to our Religi<g ref="char:EOLhyphen"/>ous Parliament, for all the good they have done us, enough to make us an happy People, if we will our ſelves.</p>
+            <p>Firſt, It is not ſo long ſince, but that we may remember, when we were under the Conduct of <hi>Blind Guides,</hi> who knew not what they did, nor whither they were roaving; for they were in the Dark themſelves, (witneſs their own confeſſion in the <hi>Armies Remonſtrance</hi>) and led us into ſuch a miſerable Confuſion, that none but our Soveraign did, or could ſave us from utter Deſolation: and had it not been for his great Prudence and Mode<g ref="char:EOLhyphen"/>ration,
+<pb n="4" facs="tcp:101329:8"/>
+we might have been in as bad a condition again.</p>
+            <p>Secondly, His Majeſty was no ſooner returned to the exerciſe of his Royal Authority, but his firſt care was for the Houſe of God, to caſt out the Filth and Rubbiſh, and to prepare a people for the ſer<g ref="char:EOLhyphen"/>vice of God. In his Proclamation (<hi>May</hi> 30. 1660.) againſt Impiety and Licentiouſneſs, Drunkenneſs, Swearing, Railing at good things, <hi>&amp;c.</hi> againſt Vi<g ref="char:EOLhyphen"/>cious, Debauched and Prophane people, who in in truth (ſaith his Majeſty) <hi>have diſcredited my Cauſe, and are a diſcredit to any Cauſe they pretend to favour.</hi> Nothing ſo much polluteth the Houſe of God, nothing ſuch a ſhame and ſcandal to our Church and Religion, as the vicious Lives and lewd Converſation of too many that pretend to hold Communion with us.</p>
+            <p>Thirdly, His Majeſties next care for the Houſe of God, was in his Proclamation (<hi>Aug.</hi> 20. 1663.) for better Sanctifying or keeping Holy the Lords Day, that his Holy Service might be more frequent<g ref="char:EOLhyphen"/>ed, and his Houſe filled with the Incenſe of Pray<g ref="char:EOLhyphen"/>ers, and the Sacrifice of Praiſe and Thankſgiving for all his Mercies. The Lords Work muſt be done on the Lords Day, or elſe it is not his Day, but ours.</p>
+            <p>Fourthly, His Majeſty took care of Beautifying the Houſe of God, in his Order for Augmentation of ſmall Benefices, for the encouragement of Faith<g ref="char:EOLhyphen"/>ful Paſtors, to adorn the Houſe of God with ſound Doctrine, and their Doctrine with Holy Life. A worthy Member of Parliament (Sir <hi>B. R.</hi>) once told the Houſe, <hi>that Scandalous Livings make Scanda<g ref="char:EOLhyphen"/>lous Miniſters, both in Life and Doctrine.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:101329:8"/>Fifthly, His Majeſties ſpecial care for the Houſe of God, appeared in his Gracious Condeſcentions to the Honourable Parliament. His Majeſties Invi<g ref="char:EOLhyphen"/>tations of that Great Aſſembly to prepare Laws a<g ref="char:EOLhyphen"/>gainſt the Growth of Popery, and to prepare more ſevere Laws againſt Impiety and Licentiouſ<g ref="char:EOLhyphen"/>neſs, are a ſure Evidence of his Pious Reſolution to maintain the true Proteſtant Religion, Piety and Vertue: And their Return of Thankfulneſs to his Majeſty for thoſe Solemn Endearing Invitations, and their making ſuch good Laws for ſecuring our Religion, Peace and Safety (whereto alſo the Royal Aſſent gave Life and Being) give aſſurance of their Faithfulneſs, Piety and Zeal for the Glory of God, and good of their Country. Bleſſed be God for this ſweet Union; and let all the people ſay <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>The Kings and Parliaments of <hi>England,</hi> from time to time, have always kept the Papal Power at Staves-end: K. <hi>Henry</hi> 8. ſhook it quite off; K. <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> 6. reſtored the true Proteſtant Religion that had been under Reſtraint. It was not called by that Name, till the Aſſembly at <hi>Spires:</hi> but yet that Re<g ref="char:EOLhyphen"/>ligion that Proteſtants profeſs, was taught by Chriſt and his holy Apoſtles, and hath continued to this day. The Famous Qu. <hi>Elizabeth</hi> maintained the ſame againſt all oppoſition, and raiſed a Fort-Roy<g ref="char:EOLhyphen"/>al out of Holy Scripture in our 39. Articles, againſt the future Invaſion of Hereſie, Idolatry, and Super<g ref="char:EOLhyphen"/>ſtition. The Noble K. <hi>James,</hi> with his Learned Pen, gave the Adverſary ſuch a Deadly Wound that can never be healed: Our late Dear Soveraign, like a Glorious Martyr, laid down his precious Life n
+<pb n="6" facs="tcp:101329:9"/>
+defence of the true Proteſtant Religion; and our Dread Soveraign that now is, like a Royal Confeſ<g ref="char:EOLhyphen"/>for, made open and conſtant Profeſſion of it, in the midſt of ſtrong Temptations to the contrary.</p>
+            <p>And now our Pious Soveraign, inſiſting in the ſteps of thoſe glorious Princes, his moſt Noble Progenitors, hath done like a Tender Father of his Country; and the Honourable Parliament, like Faithful Patriots, in maintaining the Church of <hi>England,</hi> and the true Proteſtant Religion, againſt the Encroachments of Popery, and the Church of <hi>Rome;</hi> and that for divers weighty Reaſons, con<g ref="char:EOLhyphen"/>cerning both our Temporal and Spiritual State.</p>
+            <p>Firſt, Becauſe the Church of <hi>Rome</hi> ſets up a Power over Soveraign Princes, to control them in their own Dominions, to the great diſturbance of Publick Peace. Pope <hi>Gregory</hi> the Third Excommu<g ref="char:EOLhyphen"/>nicated the Emperour <hi>Leo,</hi> called <hi>Iconomachus;</hi> which cauſed ſuch a miſchievous breach in the Em<g ref="char:EOLhyphen"/>pire, that proved the Ruine of Chriſtendom. But the Church of <hi>England</hi> teacheth Obedience to Princes, according to the Word of God: and we are bound by our Oaths of Supremacy and Alle<g ref="char:EOLhyphen"/>giance to withſtand the Papal Power, becauſe it cannot ſtand with the Peace and Safety of the Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Secondly, Popery is ſtained with much Blood, and charged with Treachery and Cruelty; whereof our Fifth of <hi>November</hi> is a Perpetual Memorial, and the World a Witneſs. The Church of <hi>England</hi> teacheth us to love one another, and pray for our Enemies.</p>
+            <p>Thirdly, Popery is an Heavy Burden without
+<pb n="7" facs="tcp:101329:9"/>
+benefit, in a long Train of unneceſſary people, who at once robbed the Church of her Patrimony, and devoured the riches of the Land: Inſomuch that a Noble King of this Nation uſed to ſay, <hi>Monks have too much, and Princes too little.</hi> Hereupon they began to fear him, and conſpired againſt him; but were prevented by a very ſtrange Providence. The Miniſters of the Church, at this day, live moſt up<g ref="char:EOLhyphen"/>on their leavings, and Starve themſelves to Feed you.</p>
+            <p>Fourthly, Becauſe the Church of <hi>Rome</hi> is ſuch an hard Mother to her Children, in locking up from them the Bread of Life, and true Food of their Souls, which their Heavenly Father ſo freely gives them; and inſtead thereof, feeding them with Traſh, Fabulous Legends, Dreams, Viſions, Reve<g ref="char:EOLhyphen"/>lations, <hi>&amp;c. teaching for Doctrines the Command<g ref="char:EOLhyphen"/>ments of men,</hi> and <hi>making the Word of God of no effect, through their Traditions:</hi> But the Church of <hi>England</hi> lays open before you the Holy Scriptures of Truth; ſets before you the Bread of Life, and feeds you with <hi>ſincere Milk of the Word,</hi> drawn from the Breaſts of the Old and New Teſtament.</p>
+            <p>Fifthly, Popery polluteth the Houſe of God with Idols, and the Land with Idolatry, in their I<g ref="char:EOLhyphen"/>mage-worſhip, Adoration of Saints, and their Re<g ref="char:EOLhyphen"/>liques, <hi>&amp;c.</hi> Pope <hi>Boniface</hi> the Fourth, who beg<g ref="char:EOLhyphen"/>ged the <hi>Pantheon</hi> of <hi>Phocas</hi> the Emperour, in place of the Heathen Gods and Goddeſſes ſet up the I<g ref="char:EOLhyphen"/>mages of the <hi>Virgin Mary,</hi> and all Saints; change<g ref="char:EOLhyphen"/>ing the Names of the Idols, but not the Nature of the Idolatry. For (1) The Heathen had Tutelar Gods and Goddeſſes for Countries, Cities, Hills,
+<pb n="8" facs="tcp:101329:10"/>
+Dales, <hi>&amp;c.</hi> ſo now there be Titular Saints for all places and purpoſes; <hi>Vigilius,</hi> the Tutelar Saint of the Valley of <hi>Trent, &amp;c.</hi> (2) The Heathen acknow<g ref="char:EOLhyphen"/>ledged one Supreme God, accounting all the reſt as Mediators of Interceſſion; examples whereof may be ſeen in their Poets. The Saints are now put in that Office: Prayer was made in the Council of <hi>Trent</hi> for Divine Aſſiſtance, by the Interceſſion of <hi>Vigilius.</hi> (3) The Heathen were not ſo bruitiſh to take Idols of Wood and Stone for Gods able to help them; but in the Idol, or Image, worſhipped ſome Deity repreſented thereby. Our Adverſaries, at this day, make no other Excuſe. Some wiſer Heathens diſliked Images for a two-fold Reaſon: (1) Be<g ref="char:EOLhyphen"/>cauſe they drew men from the true Worſhip: And (2) From the true knowledge of God. For this Reaſon, the <hi>Pagan-Romans</hi> at firſt had no Images, accounting it Sacriledge, <hi>&amp;c. (Plutarch</hi> in <hi>Numa.</hi>) The Council of <hi>Trent</hi> hath made ſome proviſion a<g ref="char:EOLhyphen"/>gainſt the ſuperſtitious abuſe of Images, Reliques, <hi>&amp;c.</hi> but to no purpoſe: For we are exhorted (1 <hi>Joh.</hi> 5.21.) to <hi>keep our ſelves from Idols;</hi> not from <hi>Idolatry,</hi> but from <hi>Idols:</hi> For the holy Apo<g ref="char:EOLhyphen"/>ſtle knew well the corrupt Nature of Man is ſuch, that if Idols be in ſight, Idolatry will certainly fol<g ref="char:EOLhyphen"/>low. For this cauſe, not only the <hi>Adoring,</hi> but the very <hi>Making</hi> of Images is expreſly forbidden by the Law of God. Now the Church of <hi>England,</hi> as a careful Mother, caſt out the Worſhip of Saints, their Images, Reliques, <hi>&amp;c.</hi> to keep her Children from the great peril of Idolatry; a Sin ſo heinous, that it provokes the fierce Wrath of God againſt a Nation, and excludes for ever out of Heaven.</p>
+            <p>
+               <pb n="9" facs="tcp:101329:10"/>Sixthly, The Church of <hi>Rome</hi> is very unreaſon<g ref="char:EOLhyphen"/>able, in requiring us to believe things that they ſcarce believe themſelves; to receive for Truth, that which the Word of God ſaith expreſly is falſe; to agree with them, who could never yet agree a<g ref="char:EOLhyphen"/>mong themſelves: They are angry with us, becauſe we will not take their bare word without proof, nor grant that which they could never yet ſhew us any certain ground for: for Councils have erred, Popes have been deceived, and divided in thirty Schiſms; have Condemned one another, Decreed one contrary to another, and uſed one another very uncharitably, to ſpeak the beſt: Their laſt Council laid a Foundation of Religion that cannot poſſibly hold or ſtand together. A Learned <hi>Carmelite</hi> warn<g ref="char:EOLhyphen"/>ed them of it, and oppoſed it with ſuch ſolid Rea<g ref="char:EOLhyphen"/>ſons, that the Council could not anſwer, but thought fit to ſtop his mouth with a Check. And how can any man reſt ſatisfied in the Judgment and Deciſion of men, that underſtand not the matters in queſti<g ref="char:EOLhyphen"/>on? For in the Debate between <hi>Soto</hi> and <hi>Cathari<g ref="char:EOLhyphen"/>nus</hi> about two moſt important Articles of Faith, ſome of the Prelates confeſſed openly, that they underſtood not the differences. <hi>(Hiſt. Coun. Trent)</hi> But the Church of <hi>England</hi> builds her Doctrine up<g ref="char:EOLhyphen"/>on ſure grounds, even <hi>the Foundations of the Apo<g ref="char:EOLhyphen"/>ſtles and Prophets;</hi> upon the pure Word of God contained in holy Scripture.</p>
+            <p>What ſhall we do now with <hi>Roman Catholicks?</hi> Labour to out-ſhine them in Holy Life, and out-do them in Good Works; the beſt way either to win them, or put them to ſilence, or force them to con<g ref="char:EOLhyphen"/>feſs, that <hi>of a truth God is amongſt us.</hi> There would
+<pb n="10" facs="tcp:101329:11"/>
+ſoon be leſs <hi>Controverſie,</hi> if more <hi>Conſcience</hi> were made of thoſe things that be <hi>without Controverſie.</hi>
+            </p>
+            <p>And now our Religion is ſecured and ſafe, what is there elſe that any man can murmure at?</p>
+            <p>Is it Monarchy? that is aſſerted by its worſt Ene<g ref="char:EOLhyphen"/>mies, who after they had marched thorough all forms of Government, at laſt ſaw a neceſſity of re<g ref="char:EOLhyphen"/>tiring back to a Single Perſon, who wanted no<g ref="char:EOLhyphen"/>thing of a King but Right and Title.</p>
+            <p>Do any diſtaſte our Liturgy? that is allowed for ſound and good, in the Doctrinal part at leaſt, by Learned and Pious Adverſaries.</p>
+            <p>Do our Laws diſlike any? they are juſtified by our late Reformers themſelves, who after long Con<g ref="char:EOLhyphen"/>ſultation could find nothing to amend, ſave only in the practiſe, and that they made much worſe; and ſo judged by a Learned Lawyer and Commiſſioner of the Seal, who refuſed to act upon their new Rules.</p>
+            <p>Is Trade decayed? that's the complaint; raiſed, or made uſe of by ſome, to bring a ſcandal upon the Government; whereof I could give you a nota<g ref="char:EOLhyphen"/>ble inſtance. But it may be real and true; and then whatever other cauſes may be, there be two ſpecial<g ref="char:EOLhyphen"/>ly; one obſerved long ſince by that Noble Knight (Sir <hi>W. R.</hi>) and both in Traders themſelves, which they may amend when they will.</p>
+            <p>What is wanting now to make us an happy peo<g ref="char:EOLhyphen"/>ple? we have a Land flowing with Milk and Ho<g ref="char:EOLhyphen"/>ney, with plenty of all things; and whileſt other Countries are in great trouble and perplexity, we enjoy a ſweet peace, and none maketh us afraid.</p>
+            <p>Bleſſed be God for our Gracious Soveraign, un<g ref="char:EOLhyphen"/>der
+<pb n="11" facs="tcp:101329:11"/>
+whoſe Shadow we enjoy theſe comforts.</p>
+            <p>But if King and Parliament had every one of them the Heart of <hi>David,</hi> and the Head of <hi>Solo<g ref="char:EOLhyphen"/>mon,</hi> yet could they never do us good, if we will not be good to our ſelves: They have done their parts, now let us do ours; and I will ſhew you in few words what you are to do, that his Majeſty may rejoyce in his people, as they have cauſe to rejoyce in him.</p>
+            <p n="1">1. Submit your ſelves to the Higher Powers; to the King as Supreme, to the reſt as ſent by him; for they are the Miniſters of God for your good; both Temporal good of the Body, and Spiritual good of the Soul, and Eternal good of both. Be obedient to the good Laws made by the King and Parlia<g ref="char:EOLhyphen"/>ment, and conſider who hath the benefit and com<g ref="char:EOLhyphen"/>fort of your Obedience but only your ſelves. The Kings Laws againſt Impiety, Licentiouſneſs, Drun<g ref="char:EOLhyphen"/>kenneſs, <hi>&amp;c.</hi> are but a Tranſcript or Copy of Gods Law, in keeping whereof there is great reward, (<hi>Pſal.</hi> 19.) In keeping whereof you do good to your ſelves and your Children after you, (<hi>Deut.</hi> 4.40.) In keeping thoſe good Laws, you glorifie God, honour the King and his Government, but do your ſelves moſt good: the King hath the honour, but you have the benefit; as I could ſhew you in many particulars.</p>
+            <p n="2">2. Submit your ſelves to them that have the Rule over you in the Lord, and watch for your Souls: Be obedient to your Mother the Church of <hi>England,</hi> who hath bred you, and brought you forth to the firſt light and knowledge of Chriſt, who hath fed you with the ſincere Milk of Gods
+<pb n="12" facs="tcp:101329:12"/>
+Word; but now they are grown up, ſome run after Painted Harlots, and follow New Lights, that dar<g ref="char:EOLhyphen"/>ken Counſel by words without knowledge, (<hi>Job</hi> 38.) are weary of the Heavenly Manna, longing after Onions and Garlick. O fooliſh people, who hath bewitched you, to forſake the Truth, and fol<g ref="char:EOLhyphen"/>low after Lies; to venture your precious Souls upon ſuch weak grounds; to build your precious Faith upon the credit of one ſinful Man! Popery can never ſettle your Conſcience in peace; and thoſe New Lights will leave you in darkneſs and per<g ref="char:EOLhyphen"/>plexity of mind, whereof I have known many ex<g ref="char:EOLhyphen"/>amples; but be not you Companions with them. In the Church of <hi>England</hi> the pure Word of God is plainly taught, the Sacraments duly adminiſtred, the precious Legacies that Chriſt hath left you are faithfully delivered unto you; nothing kept under Lock and Key in a Myſtery; nothing of all the Counſel of God kept from you, but all made plain<g ref="char:EOLhyphen"/>ly known to you, that ye may find reſt unto your Souls.</p>
+            <p n="3">3. Let every man ſtudy to be quiet, and follow his own buſineſs (1 <hi>Theſ.</hi> 4.11.) Keep within the compaſs of your own Calling, meddle not with things too high for you. There were once <hi>Emenda<g ref="char:EOLhyphen"/>tores Apoſtolorum,</hi> as now there be Church-menders and State-menders; men that ſpeak evil of things they underſtand not, to the great diſquiet of the Nation. There was a late Cry, <hi>All undone;</hi> and now we may be aſhamed of our folly: for by the goodneſs of God things are ſo ordered, that we may well ſay with <hi>Themiſtocles,</hi> We had been undone, if we had not been undone.</p>
+            <p n="4">
+               <pb n="13" facs="tcp:101329:12"/>4. Leave off all your unthankful murmures and complaints: It is a common thing for men to com<g ref="char:EOLhyphen"/>plain the Times are bad, when they make it ſo themſelves; and if any calamity happen, blame their Superiours both unthankfully and unjuſtly. (1) Unthankful they are to God and Man, to mur<g ref="char:EOLhyphen"/>mure at thoſe whom God hath made Inſtruments of ſo much good to us. (2) Unjuſt they are, to blame thoſe for things whereof themſelves are the cauſe. <hi>David</hi> was a Man after Gods own Heart, yet fell in<g ref="char:EOLhyphen"/>to a great Errour, for a Judgment on the people for their ſins, (2 <hi>Sam.</hi> 24.) <hi>Again the Anger of the Lord was kindled againſt Iſrael, and he moved Da<g ref="char:EOLhyphen"/>vid to ſay, Go, number Iſrael and Judah.</hi> David<hi>'s</hi> Fall was the peoples fault. If Princes ſtand, it is for our good; if they fall, it is for our ſins: Begin at home, amend your ſelves, and then all will be well.</p>
+            <p n="5">5. Break off all your ſins by ſpeedy Repentance; all your Debauchery, Drunkenneſs, Profaneneſs, <hi>&amp;c.</hi> for (<hi>Hoſ.</hi> 4.) it is ſin that makes a Land mourn, and the people languiſh. Vicious, debauched, and profane people are the Troublers of our <hi>Iſrael:</hi> Theſe are the Schiſmaticks that make ſuch a Rent in our Church by their diſobedience to her holy Or<g ref="char:EOLhyphen"/>ders, that may probably be the moſt cauſe of our troubles. Let Miniſters lead lives as pure as their Surplice, and then that Garment will not be ſuch an Eye-ſore: Let the people lead holy lives, an<g ref="char:EOLhyphen"/>ſwerable to our holy Liturgy, and then that ſervice will be better accepted. It is our ſins that diſſolve the Bond of Peace, that diſturb, and will deſtroy our Nation, if not prevented by Reformation.</p>
+            <p n="6">
+               <pb n="14" facs="tcp:101329:13"/>6. Learn of this Holy Scribe to bleſs God for theſe Mercies we enjoy, and for them by whom we have received them. Unthankfulneſs ſtops the Cur<g ref="char:EOLhyphen"/>rent of Gods Mercies, and provokes him to blaſt thoſe we have: but Thankfulneſs preſerves thoſe we have, and procures more, (<hi>Pſal.</hi> 67.5, 6.) <hi>Let the people praiſe thee, O God;</hi> and, <hi>then ſhall the Earth yield her encreaſe.</hi>
+            </p>
+            <p>Laſtly, One thing ſpecially we are commanded this day, to excite you to pity the Poor in this time of ſcarcity: I never found, but moſt of you are ready enough to this Duty; but take heed you do not relieve them with one hand, and oppreſs them with another; as thoſe do that keep in their Corn to make a Dearth. There be men that ſlander Hea<g ref="char:EOLhyphen"/>ven and Earth with a noiſe of Dearth, when there is no need of ſcarcity, but only the hardneſs of their own covetous hearts. Take heed how you oppreſs the Poor, who are a part of Gods Great Family as well as you; and you are but Stewards for them: Take heed, your time is but ſhort, your account is at hand; and then, thoſe that ſhew no Mercy, ſhall finde none. But do all what can be done, there will ſtill be unruly people, and diſor<g ref="char:EOLhyphen"/>derly; and thoſe we muſt leave to the ſeverity of Laws, for the Magiſtrate beareth not the Sword in vain.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:101329:13"/>
+            <head>The CONTENTS.</head>
+            <p>THat True Religion is the fairest Beauty of Gods Houſe.</p>
+            <p>That True Religion is the Glory, Riches, and Strength of a Nation.</p>
+            <p>That his Majesty hath many ways beautified the Houſe of God, and advanced Religion.</p>
+            <p>That his Majeſty hath done like a true Nurſing Fa<g ref="char:EOLhyphen"/>ther of the Church; and the Parliament like Faithful Patriots, in defending our Religion a<g ref="char:EOLhyphen"/>gainst the Intruſions of Popery: With Reaſons.</p>
+            <p>That our Government, Eccleſiaſtick and Civil, is juſtified by Adverſaries themſelves.</p>
+            <p>That there is nothing wanting to make us happy, if we will our ſelves: With ways and means to do it.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
